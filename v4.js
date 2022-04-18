@@ -863,7 +863,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[16], {
                 v.load.audio("round_begin", "sounds/alpha/round_begin2.mp3"),
                 v.load.audio("round_ending", "sounds/alpha/round_ending2.mp3"),
                 v.load.audio("noshoot", "sounds/alpha/noshoot.mp3"),
-                v.load.audio("theme_citaadel", "https://verse-static.aavegotchi.com/sounds/alpha/theme_citaadel_beatscribe.ogg"),
+                v.load.audio("theme_citaadel", "https://verse-static.aavegotchi.com/sounds/alpha/theme_citaadel_beatscribe.mp3"),
                 v.load.audio("send", "sounds/send.mp3"),
                 v.load.audio("check", "sounds/click.mp3"),
                 v.load.audio("sending", "sounds/sending.mp3"),
