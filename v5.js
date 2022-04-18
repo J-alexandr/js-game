@@ -11,7 +11,7 @@
                 document.querySelector(".pending-alchemica-container div[class='jsx-42443983 box-holder has-top has-bottom  ']").classList.remove("has-top", "has-bottom"), 
                 document.querySelector(".pending-alchemica-container div[class='jsx-42443983 left-cap cap']").style.visibility = "hidden",
                 document.querySelector(".pending-alchemica-container div[class='jsx-42443983 content']").style.background = "none", 
-                document.querySelector(".top-left-container").style.visibility = "hidden",
+                document.querySelector(".top-left-container").style.visibility = "hidden"
                 // document.querySelector(".pocket-container").style.visibility = "hidden"
             }
         }, 5000);
